@@ -1,0 +1,9 @@
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\encrypts_decrypts\encrypts_decrypts\encrypts_decrypts\bin\Debug\encrypts_decrypts.exe.config
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\encrypts_decrypts\encrypts_decrypts\encrypts_decrypts\bin\Debug\encrypts_decrypts.exe
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\encrypts_decrypts\encrypts_decrypts\encrypts_decrypts\bin\Debug\encrypts_decrypts.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\encrypts_decrypts\encrypts_decrypts\encrypts_decrypts\obj\Debug\encrypts_decrypts.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\encrypts_decrypts\encrypts_decrypts\encrypts_decrypts\obj\Debug\encrypts_decrypts.Form1.resources
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\encrypts_decrypts\encrypts_decrypts\encrypts_decrypts\obj\Debug\encrypts_decrypts.Properties.Resources.resources
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\encrypts_decrypts\encrypts_decrypts\encrypts_decrypts\obj\Debug\encrypts_decrypts.csproj.GenerateResource.Cache
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\encrypts_decrypts\encrypts_decrypts\encrypts_decrypts\obj\Debug\encrypts_decrypts.exe
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\encrypts_decrypts\encrypts_decrypts\encrypts_decrypts\obj\Debug\encrypts_decrypts.pdb
